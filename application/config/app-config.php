@@ -32,7 +32,7 @@ define('APP_BASE_URL', 'https://crm-colortext.herokuapp.com');
 *
 * Auto added on install
 */
-define('APP_ENC_KEY', '[encryption_key]');
+define('APP_ENC_KEY', 'd282ae15b0cb5d58c0bdddb9a9914a8e');
 
 /**
  * Database Credentials
