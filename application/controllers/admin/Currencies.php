@@ -66,7 +66,7 @@ class Currencies extends AdminController
         }
         redirect(admin_url('currencies'));
     } 
-    */
+    
 
     /* Delete currency from database */
     public function delete($id)
